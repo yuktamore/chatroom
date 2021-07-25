@@ -1,4 +1,4 @@
-# chatroom
+# Communication Suite
 
 Multi Client Real Time Chat Application
 
